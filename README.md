@@ -1,7 +1,9 @@
 # SHOP
 
 #### Resources
-    # https://zellwk.com/blog/crud-express-mongodb/
+    https://zellwk.com/blog/crud-express-mongodb/
+    https://www.youtube.com/watch?v=Tm9tz_vwTTA
+    https://expressjs.com/en/starter/static-files.html
 
 ### Setup
 
