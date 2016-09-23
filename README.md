@@ -1,5 +1,8 @@
 # SHOP
 
+#### Resources
+    # https://zellwk.com/blog/crud-express-mongodb/
+
 ### Setup
 
 ##### Prerequisites
